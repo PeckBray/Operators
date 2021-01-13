@@ -8,6 +8,7 @@
         Console.WriteLine(1 \ 2) 'Integer Div
         Console.WriteLine(1 Mod 2) 'Division returns only the remainder
         Console.WriteLine(5 ^ 5) 'Exponential
+        Console.WriteLine("Hello" & " world") 'Concatinate strings
         Console.ReadLine()
 
     End Sub
