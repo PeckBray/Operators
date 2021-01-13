@@ -7,6 +7,7 @@
         Console.WriteLine(1 / 2) 'Regular Div
         Console.WriteLine(1 \ 2) 'Integer Div
         Console.WriteLine(1 Mod 2) 'Division returns only the remainder
+        Console.WriteLine(5 ^ 5) 'Exponential
         Console.ReadLine()
 
     End Sub
